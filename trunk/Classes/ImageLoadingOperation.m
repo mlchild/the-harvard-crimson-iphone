@@ -28,7 +28,7 @@
 	
 	//get image synchronously
 	NSURL *url = imageURL;
-	NSData *imageData = [[NSData alloc] initWithContentsOfURL:imageURL];
+	NSData *imageData = [[NSData alloc] initWithContentsOfURL:url];
 	UIImage *image = [[UIImage alloc] initWithData:imageData];
 	
 	if (image != nil) {
