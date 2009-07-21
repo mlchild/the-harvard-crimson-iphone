@@ -1,5 +1,0 @@
-In file included from /Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/Story.m:9:
-/Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/Story.h:36: error: duplicate property declaration 'headline'
-/Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/Story.m:14: error: no declaration of property 'storyID' found in the interface
-/Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/Story.m:34: warning: property 'articleID' requires method '-articleID' to be defined - use @synthesize, @dynamic or provide a method implementation
-/Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/Story.m:34: warning: property 'articleID' requires the method 'setArticleID:' to be defined - use @synthesize, @dynamic or provide a method implementation

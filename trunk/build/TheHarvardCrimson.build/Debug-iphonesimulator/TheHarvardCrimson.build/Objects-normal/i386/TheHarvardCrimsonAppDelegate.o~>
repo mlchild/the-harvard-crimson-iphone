@@ -1,4 +1,0 @@
-In file included from /Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/StoryTableViewController.h:10,
-                 from /Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/TheHarvardCrimsonAppDelegate.h:10,
-                 from /Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/TheHarvardCrimsonAppDelegate.m:9:
-/Users/mchill88/Documents/Max Child/Code/iPhone projects/TheHarvardCrimson/Classes/StoryViewController.h:10:18: error: Story.h: No such file or directory
